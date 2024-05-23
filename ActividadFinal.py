@@ -1,3 +1,5 @@
+# Construido por: Maria Casanova - Johan Ordoñez
+
 
 # Metodo para agregar un producto al inventario
 def agregarP(nombre, codigo, precio, cantidad):
